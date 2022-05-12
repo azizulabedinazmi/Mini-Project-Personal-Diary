@@ -20,6 +20,9 @@ Following are the features of the program:
 <img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Personal%20Diary%20(1).jpg" alt="screenshot"/>
 
 **PROGRAM OUTPUT / SCREEN SHOT :**
+
+
+</br>
 <img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture1.png" alt="screenshot"/>
 <img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture2.png" alt="screenshot"/>
 Creating .EXE file :
