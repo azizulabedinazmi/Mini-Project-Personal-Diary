@@ -20,25 +20,26 @@ Following are the features of the program:
 <img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Personal%20Diary%20(1).jpg" alt="screenshot"/>
 
 **PROGRAM OUTPUT / SCREEN SHOT :**
-
+<img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture1.png" alt="screenshot"/>
+<img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture2.png" alt="screenshot"/>
 Creating .EXE file :
 
 **gcc exit1.c main.c menu.c password.c read.c write.c -o Diary**
-
+<img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture3.png" alt="screenshot"/>
 Program Output :
-
+<img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture4.png" alt="screenshot"/>
 Login Error :
-
+<img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture5.png" alt="screenshot"/>
 Login Success:
-
+<img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture6.png" alt="screenshot"/>
 Main Menu :
-
+<img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture7.png" alt="screenshot"/>
 Write :
-
+<img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture8.png" alt="screenshot"/>
 Read :
-
+<img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture9.png" alt="screenshot"/>
 Exit :
-
+<img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture10.png" alt="screenshot"/>
 **LIMITATIONS OF YOUR PROGRAM :**
 
 In our personal diary, there is a limitation of word in username and text content. We will increase it in the future. We still don't have the option to edit our text. Our next plan is to add this feature in the next update. We'll also add a feature to change the password.
