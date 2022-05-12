@@ -30,6 +30,7 @@ Creating .EXE file :
 **gcc exit1.c main.c menu.c password.c read.c write.c -o Diary**
 <img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture3.png" alt="screenshot"/>
 Program Output :
+
 <img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture4.png" alt="screenshot"/>
 Login Error :
 <img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture5.png" alt="screenshot"/>
