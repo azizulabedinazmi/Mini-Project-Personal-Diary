@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1651829209 source:c:\users\azmi0\desktop\new folder\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1650909422 source:c:\users\azmi0\desktop\new folder\menu.c
+	<stdio.h>
+	<stdlib.h>
+
+1650626482 source:c:\users\azmi0\desktop\new folder\password.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1651935380 source:c:\users\azmi0\desktop\new folder\read.c
+	<stdio.h>
+	<stdlib.h>
+
+1651043955 source:c:\users\azmi0\desktop\new folder\write.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1651043157 source:c:\users\azmi0\desktop\new folder\exit1.c
+	<stdio.h>
+	<stdlib.h>
+

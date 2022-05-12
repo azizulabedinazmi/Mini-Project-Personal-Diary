@@ -1,0 +1,17 @@
+Personal Diary Management System
+
+
+Username : azmi
+Password : azmi@# 
+
+1.Menu 		- menu()
+2.Data Input 	- password(),write(),read()
+3.If else	- main()
+4.Loops 	- while loop in read()
+5.User defined  - password(),menu(),write(),read(),exit()
+6.Output	- write()
+7.Save to file  - write()
+8.Output screen - write(),read()
+
+Useful function
+strcmp()	fflush(stdin)	system("cls")
