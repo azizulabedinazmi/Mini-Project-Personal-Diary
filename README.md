@@ -80,4 +80,4 @@ strcmp() fflush(stdin) system("cls")
 
 
 
-This project is made by me[@FAzizul- Abedin-Azmi](https://github.com/azizulabedinazmi), [@Rafid-Mubarrat](https://www.facebook.com/profile.php?id=100008406619415) & [@Easrat-Jahan-Afrina](https://www.facebook.com/esratjahanafrina).
+This project is made by me[@Azizul- Abedin-Azmi](https://github.com/azizulabedinazmi), [@Rafid-Mubarrat](https://www.facebook.com/profile.php?id=100008406619415) & [@Easrat-Jahan-Afrina](https://www.facebook.com/esratjahanafrina).
