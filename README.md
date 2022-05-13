@@ -45,7 +45,9 @@ Read :
 <img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture9.png" alt="screenshot"/>
 Exit :
 <img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture10.png" alt="screenshot"/>
-**LIMITATIONS OF YOUR PROGRAM 
+
+
+
 
 
 
