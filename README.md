@@ -45,9 +45,9 @@ Read :
 <img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture9.png" alt="screenshot"/>
 Exit :
 <img src="https://github.com/azmi00121/Mini-Project-Personal-Diary/raw/main/Screenshots/Picture10.png" alt="screenshot"/>
-**LIMITATIONS OF YOUR PROGRAM :**
+**LIMITATIONS OF YOUR PROGRAM 
 
-In our personal diary, there is a limitation of word in username and text content. We will increase it in the future. We still don't have the option to edit our text. Our next plan is to add this feature in the next update. We'll also add a feature to change the password.
+
 
 **APPENDIX (SOURCE CODE) :**
 
